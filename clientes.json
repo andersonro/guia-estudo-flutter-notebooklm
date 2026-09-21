@@ -1,0 +1,62 @@
+{
+  {
+      "nome": "Ana Silva",
+      "telefone": "(11) 98765-4321",
+      "email": "ana.silva@email.com",
+      "nivel": "Iniciante"
+    },
+    {
+      "nome": "Carlos Eduardo Santos",
+      "telefone": "(21) 99876-5432",
+      "email": "carlos.santos@email.com",
+      "nivel": "Intermediário"
+    },
+    {
+      "nome": "Beatriz Oliveira",
+      "telefone": "(31) 97654-3210",
+      "email": "beatriz.oliveira@email.com",
+      "nivel": "Avançado"
+    },
+    {
+      "nome": "Diego Ferreira",
+      "telefone": "(41) 98888-7777",
+      "email": "diego.ferreira@email.com",
+      "nivel": "Iniciante"
+    },
+    {
+      "nome": "Fernanda Lima",
+      "telefone": "(51) 99123-4567",
+      "email": "fernanda.lima@email.com",
+      "nivel": "Experiente"
+    },
+    {
+      "nome": "Gabriel Costa",
+      "telefone": "(61) 98456-7890",
+      "email": "gabriel.costa@email.com",
+      "nivel": "Intermediário"
+    },
+    {
+      "nome": "Juliana Rocha",
+      "telefone": "(71) 99345-6789",
+      "email": "juliana.rocha@email.com",
+      "nivel": "Avançado"
+    },
+    {
+      "nome": "Lucas Almeida",
+      "telefone": "(81) 98234-5678",
+      "email": "lucas.almeida@email.com",
+      "nivel": "Iniciante"
+    },
+    {
+      "nome": "Mariana Souza",
+      "telefone": "(85) 99765-1234",
+      "email": "mariana.souza@email.com",
+      "nivel": "Experiente"
+    },
+    {
+      "nome": "Rafael Martins",
+      "telefone": "(19) 98111-2233",
+      "email": "rafael.martins@email.com",
+      "nivel": "Intermediário"
+    }
+}

@@ -1,0 +1,214 @@
+{
+  "investimentos": [
+    {
+      "nome": "Tesouro Selic 2029",
+      "valor": "R$ 150,00",
+      "rentabilidade": "100% da Taxa Selic",
+      "descricao": "Título público pós-fixado com altíssima liquidez e baixo risco, ideal para reserva de emergência.",
+      "nivel": "Iniciante"
+    },
+    {
+      "nome": "CDB Reserva Icatu 100% CDI",
+      "valor": "R$ 100,00",
+      "rentabilidade": "100% do CDI",
+      "descricao": "Rendimento diário com garantia do FGC até R$ 250 mil por CPF e instituição.",
+      "nivel": "Iniciante"
+    },
+    {
+      "nome": "Tesouro IPCA+ 2035",
+      "valor": "R$ 100,00",
+      "rentabilidade": "IPCA + 5,80% a.a.",
+      "descricao": "Protege o capital contra a inflação e garante rendimento real no longo prazo.",
+      "nivel": "Iniciante"
+    },
+    {
+      "nome": "Fundo de Renda Fixa Simples",
+      "valor": "R$ 500,00",
+      "rentabilidade": "102% do CDI",
+      "descricao": "Fundo com liquidez diária focado em títulos públicos e bancários de baixo risco.",
+      "nivel": "Iniciante"
+    },
+    {
+      "nome": "LCI Banco Inter 90 Dias",
+      "valor": "R$ 1.000,00",
+      "rentabilidade": "92% do CDI (Isento de IR)",
+      "descricao": "Título de crédito imobiliário isento de Imposto de Renda com curto prazo.",
+      "nivel": "Iniciante"
+    },
+    {
+      "nome": "LCA Banco do Brasil 1 Ano",
+      "valor": "R$ 1.000,00",
+      "rentabilidade": "94% do CDI (Isento de IR)",
+      "descricao": "Investimento ligado ao agronegócio com isenção de IR para pessoas físicas.",
+      "nivel": "Iniciante"
+    },
+    {
+      "nome": "ETF IVVB11 (S&P 500)",
+      "valor": "R$ 300,00",
+      "rentabilidade": "Variação do S&P 500 + Dólar",
+      "descricao": "Fundo de índice que replica as 500 maiores empresas dos Estados Unidos.",
+      "nivel": "Iniciante"
+    },
+    {
+      "nome": "CDB BMG Pré-fixado 3 Anos",
+      "valor": "R$ 1.000,00",
+      "rentabilidade": "11,5% a.a.",
+      "descricao": "CDB com taxa pré-fixada, garantindo o retorno exato no momento do resgate.",
+      "nivel": "Iniciante"
+    },
+    {
+      "nome": "Fundo Imobiliário HGLG11",
+      "valor": "R$ 160,00",
+      "rentabilidade": "Dividend Yield ~8,5% a.a.",
+      "descricao": "Fundo de tijolo focado em galpões logísticos com contratos de longo prazo.",
+      "nivel": "Iniciante"
+    },
+    {
+      "nome": "Tesouro Prefixado 2030",
+      "valor": "R$ 100,00",
+      "rentabilidade": "10,90% a.a.",
+      "descricao": "Título público com taxa de juros fixa garantida caso mantido até o vencimento.",
+      "nivel": "Iniciante"
+    },
+    {
+      "nome": "ETF BOVA11",
+      "valor": "R$ 110,00",
+      "rentabilidade": "Variação do Ibovespa",
+      "descricao": "Fundo de índice que replica a carteira das principais empresas da B3.",
+      "nivel": "Intermediário"
+    },
+    {
+      "nome": "Ações Itaú Unibanco (ITUB4)",
+      "valor": "R$ 35,00",
+      "rentabilidade": "Valorização + Dividendos (~7% a.a.)",
+      "descricao": "Ações de um dos maiores e mais lucrativos bancos da América Latina.",
+      "nivel": "Intermediário"
+    },
+    {
+      "nome": "Ações Vale (VALE3)",
+      "valor": "R$ 62,00",
+      "rentabilidade": "Valorização + Dividendos (~9% a.a.)",
+      "descricao": "Empresa exportadora de minério de ferro com forte pagamento de proventos.",
+      "nivel": "Intermediário"
+    },
+    {
+      "nome": "Fundo Imobiliário KNCR11",
+      "valor": "R$ 100,00",
+      "rentabilidade": "Dividend Yield ~12% a.a.",
+      "descricao": "Fundo de papel focado em títulos de dívida imobiliária (CRIs) indexados ao CDI.",
+      "nivel": "Intermediário"
+    },
+    {
+      "nome": "Debênture Incentivada Vale",
+      "valor": "R$ 1.000,00",
+      "rentabilidade": "IPCA + 6,2% a.a. (Isento de IR)",
+      "descricao": "Título de dívida privada para financiamento de infraestrutura sem IR.",
+      "nivel": "Intermediário"
+    },
+    {
+      "nome": "CRI Fibria Celulose",
+      "valor": "R$ 1.000,00",
+      "rentabilidade": "IPCA + 5,9% a.a. (Isento de IR)",
+      "descricao": "Certificado de Recebíveis Imobiliários com isenção fiscal para o investidor.",
+      "nivel": "Intermediário"
+    },
+    {
+      "nome": "CRA JBS Agribusiness",
+      "valor": "R$ 1.000,00",
+      "rentabilidade": "102% do CDI (Isento de IR)",
+      "descricao": "Certificado de Recebíveis do Agronegócio lastreado em cadeias de suprimentos.",
+      "nivel": "Intermediário"
+    },
+    {
+      "nome": "Fundo Multimercado Macro Strategy",
+      "valor": "R$ 5.000,00",
+      "rentabilidade": "CDI + 3% a.a. (Histórico)",
+      "descricao": "Fundo que opera juros, moedas e ações no Brasil e no exterior.",
+      "nivel": "Intermediário"
+    },
+    {
+      "nome": "ETF SMAL11 (Small Caps)",
+      "valor": "R$ 95,00",
+      "rentabilidade": "Variação do Índice Small Cap",
+      "descricao": "ETF focado em empresas de menor capitalização com alto potencial de crescimento.",
+      "nivel": "Intermediário"
+    },
+    {
+      "nome": "BDR Apple (AAPL34)",
+      "valor": "R$ 50,00",
+      "rentabilidade": "Variação da ação nos EUA + Dólar",
+      "descricao": "Certificado negociado na B3 que representa ações da Apple nos EUA.",
+      "nivel": "Intermediário"
+    },
+    {
+      "nome": "Ações WEG (WEGE3)",
+      "valor": "R$ 40,00",
+      "rentabilidade": "Crescimento de Capital + Proventos",
+      "descricao": "Multinacional brasileira de bens de capital com histórico consistente de lucros.",
+      "nivel": "Avançado"
+    },
+    {
+      "nome": "Bitcoin (BTC)",
+      "valor": "R$ 50,00",
+      "rentabilidade": "Alta Volatilidade / Especulativa",
+      "descricao": "Principal criptomoeda descentralizada do mercado global.",
+      "nivel": "Avançado"
+    },
+    {
+      "nome": "Ethereum (ETH)",
+      "valor": "R$ 50,00",
+      "rentabilidade": "Alta Volatilidade / Especulativa",
+      "descricao": "Plataforma de contratos inteligentes e infraestrutura para ecossistema Web3.",
+      "nivel": "Avançado"
+    },
+    {
+      "nome": "Opções de Ações (Call/Put)",
+      "valor": "R$ 500,00",
+      "rentabilidade": "Variável (Alavancada)",
+      "descricao": "Contratos de direitos de compra e venda de ações para hedge ou alavancagem.",
+      "nivel": "Avançado"
+    },
+    {
+      "nome": "Contratos Futuros de Mini Dólar (WDO)",
+      "valor": "R$ 1.500,00",
+      "rentabilidade": "Variável (Day Trade / Swing)",
+      "descricao": "Operações de curto prazo baseadas nas oscilações da cotação do Dólar.",
+      "nivel": "Avançado"
+    },
+    {
+      "nome": "Fundo de Private Equity Tech",
+      "valor": "R$ 50.000,00",
+      "rentabilidade": "Retorno Alvo IPCA + 15% a.a.",
+      "descricao": "Investimento direto em empresas fechadas (startups/scale-ups) antes do IPO.",
+      "nivel": "Experiente"
+    },
+    {
+      "nome": "COE Global Tech Memory",
+      "valor": "R$ 5.000,00",
+      "rentabilidade": "Até 18% a.a. ou Capital Protegido",
+      "descricao": "Certificado estruturado atrelado ao desempenho de gigantes da tecnologia internacional.",
+      "nivel": "Experiente"
+    },
+    {
+      "nome": "Fundo Offshore Global Long Biased",
+      "valor": "R$ 25.000,00",
+      "rentabilidade": "Libor + 6% a.a. em Dólar",
+      "descricao": "Fundo de investimento com exposição global e gestão ativa em múltiplos ativos.",
+      "nivel": "Experiente"
+    },
+    {
+      "nome": "Debênture High Yield Não Padronizada",
+      "valor": "R$ 10.000,00",
+      "rentabilidade": "CDI + 6,5% a.a.",
+      "descricao": "Título de crédito privado de alto risco e elevado potencial de retorno.",
+      "nivel": "Experiente"
+    },
+    {
+      "nome": "Ações Small Cap de Turnaround",
+      "valor": "R$ 2.000,00",
+      "rentabilidade": "Variável (Alto Risco)",
+      "descricao": "Ações de empresas em processo de reestruturação financeira e operacional.",
+      "nivel": "Experiente"
+    }
+  ]
+}

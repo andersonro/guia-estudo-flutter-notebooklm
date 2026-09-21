@@ -1,5 +1,6 @@
 {
-  {
+  "contatos": [
+    {
       "nome": "Ana Silva",
       "telefone": "(11) 98765-4321",
       "email": "ana.silva@email.com",
@@ -59,4 +60,5 @@
       "email": "rafael.martins@email.com",
       "nivel": "Intermediário"
     }
+  ]
 }
